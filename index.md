@@ -10,8 +10,8 @@ humandate: "January 22-23, 29-30"    # human-readable dates for the workshop (e.
 humantime: "9:00 am - 12:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-01-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-01-30        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Tom Morrell","Stephen Davison","Nicholas Cifuentes-Goodbody"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Peter Collopy", "Donna Wrublewski"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Tom Morrell","Stephen Davison"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Donna Wrublewski"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["library@caltech.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -248,6 +248,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 We used Jupyter notebooks during the workshop to collect our code.  Here are the instructor notebooks from the end of each day:
 
+{% comment %}
+
 <a href="/2019-01-22-Python-Workshop/files/day1.ipynb">Day 1</a>
 
 <a href="/2019-01-22-Python-Workshop/files/day2.ipynb">Day 2</a>
@@ -265,6 +267,8 @@ We used Jupyter notebooks during the workshop to collect our code.  Here are the
 <a href="/2019-01-22-Python-Workshop/files/Day4_b.py">Day 4: Notebook Part 2</a>
 
 <a href="/2019-01-22-Python-Workshop/files/Day4_c.py">Day 4: Notebook Part 3</a>
+
+{% endcomment %}
 
 {% comment %}
   SETUP
