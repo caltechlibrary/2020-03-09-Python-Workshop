@@ -6,10 +6,10 @@ address: "Millikan 9th Floor"      # full street address of workshop (e.g., "Roo
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "34.136859,-118.126089"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "January 22-23, 29-30"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "March 9-10, 16-17"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 12:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-01-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-01-30        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2020-03-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2020-03-17        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Tom Morrell","Stephen Davison"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Donna Wrublewski"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["library@caltech.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
