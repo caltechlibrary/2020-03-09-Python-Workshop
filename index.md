@@ -305,7 +305,7 @@ We used Jupyter notebooks during the workshop to collect our code.  Here are the
 
 <h3>Data Files</h3>
 
-Download the <a href="/2019-01-22-Python-Workshop/files/carpentries.zip">data files</a> and extract and save them somewhere where you can find them easily (like your Desktop).
+Download the <a href="/2020-03-09-Python-Workshop/files/carpentries.zip">data files</a> and extract and save them somewhere where you can find them easily (like your Desktop).
 
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
            the workshop will teach Python using something other than
