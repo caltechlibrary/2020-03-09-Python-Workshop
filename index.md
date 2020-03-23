@@ -254,7 +254,7 @@ We used Jupyter notebooks during the workshop to collect our code.  Here are the
 
 <a href="/2020-03-09-Python-Workshop/files/data_analysis.py">Day 3: Python Script</a>
 
-<a href="/2020-03-09-Python-Workshop/files/Day4.py">Day 4</a>
+<a href="/2020-03-09-Python-Workshop/files/Day4.ipynb">Day 4</a>
 
 {% comment %}
   SETUP
